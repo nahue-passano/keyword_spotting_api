@@ -51,7 +51,7 @@ def prepare_dataset(dataset_path, json_path, n_mfcc = 13, hop_length = 512, n_ff
                 signal, sr = librosa.load(file_path)
 
                 # ensure the audio file is at least 1 sec
-                if len(signal) >= samples_to_consider:
+                if len(signal) > samples_to_consider:
 
                     # enforce 1 sec long signal
                     signal = signal[:samples_to_consider]
