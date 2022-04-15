@@ -51,7 +51,7 @@ if __name__ == '__main__':
     plt.yticks([0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1])
     plt.ylim(0,1)
     plt.grid()
-    plt.savefig('model_accuracy.png')
+    plt.savefig('images/model_accuracy.png')
     plt.show()
 
     # Plots of loss in test and validation
@@ -63,5 +63,5 @@ if __name__ == '__main__':
     plt.xlabel('Epochs')
     plt.legend(['Train', 'Validation'], loc='upper left')
     plt.grid()
-    plt.savefig('model_loss.png')
+    plt.savefig('images/model_loss.png')
     plt.show()

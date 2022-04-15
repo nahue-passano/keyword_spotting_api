@@ -7,8 +7,8 @@
 
 <table>
   <tr>
-    <td><img src="model_accuracy.png" alt="accuracy"/></td>
-    <td><img src="model_loss.png" alt="loss"/></td>
+    <td><img src="images/model_accuracy.png" alt="accuracy"/></td>
+    <td><img src="images/model_loss.png" alt="loss"/></td>
   </tr>
  </table>
 
