@@ -1,14 +1,28 @@
 # Deployment of a Speech recognition system with TensorFlow in a Flask API
+---
+## **Description**
+
+---
+## **Model accuracy and loss**
+
+<table>
+  <tr>
+    <td><img src="model_accuracy.png" alt="accuracy"/></td>
+    <td><img src="model_loss.png" alt="loss"/></td>
+  </tr>
+ </table>
+
+
 
 ---
 ### **Library Requirements**
-    - os
-    - librosa
-    - json
-    - numpy 1.21 or less
-    - scikitlearn
-    - tensorflow.keras
-    - matplotlib.pyplot
+    os
+    librosa
+    json
+    numpy == 1.21
+    scikitlearn
+    tensorflow.keras
+    matplotlib.pyplot
 
 --- 
 
