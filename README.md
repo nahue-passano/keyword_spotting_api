@@ -7,6 +7,8 @@
     - json
     - numpy 1.21 or less
     - scikitlearn
+    - tensorflow.keras
+    - matplotlib.pyplot
 
 --- 
 
