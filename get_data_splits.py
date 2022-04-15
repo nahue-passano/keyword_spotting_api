@@ -13,7 +13,7 @@ def load_dataset(data_path):
 
     return X,y
 
-def get_data_splits(data_path, test_size = 0.1, validation_size = 0.1):
+def get_data_splits(data_path, test_size = 0.2, validation_size = 0.2):
 
     # load dataset
     X, y = load_dataset(data_path)
