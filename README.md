@@ -3,6 +3,10 @@
 ## **Description**
 
 ---
+## **Model architecture**
+<img src="images/model_architecture.png" alt="architecture" width = '500'/>
+
+---
 ## **Model accuracy and loss**
 
 <table>
