@@ -1,6 +1,11 @@
 # Deployment of a Speech recognition system with TensorFlow in a Flask API
 ---
 ## **Description**
+In this project, a Speech Recognition system is developed for predict words from audio files. In this case, the words that the system can detect are:
+
+    "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "zero", 
+    "up", "down", "left", "right", "go", "stop", "on", "off", "yes", "no", "cat", "dog"
+
 
 ---
 ## **Model architecture**
