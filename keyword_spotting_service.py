@@ -65,7 +65,7 @@ class _Keyword_Spotting_Service:
 
         return predicted_keyword
 
-def Keyword_Spotting_Service(model_path):
+def Keyword_Spotting_Service(model_path = 'CNNmodel.h5'):
 
     # ensure that we only have 1 instance of KSS
     if _Keyword_Spotting_Service._instance is None:
