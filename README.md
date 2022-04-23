@@ -6,6 +6,7 @@ In this project, a Speech Recognition system is developed for predict words from
     "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "zero", 
     "up", "down", "left", "right", "go", "stop", "on", "off", "yes", "no", "cat", "dog"
 
+In addition, such a system is deployed on a flask server to predict from a client scipt.
 
 ---
 ## **Model architecture**
@@ -32,6 +33,9 @@ In this project, a Speech Recognition system is developed for predict words from
     scikitlearn
     tensorflow.keras
     matplotlib.pyplot
+    flask
+    random
+    requests
 
 --- 
 
