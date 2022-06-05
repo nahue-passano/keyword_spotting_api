@@ -1,0 +1,8 @@
+__pycache__/
+keyword_spotting_service/__pycache__/
+keyword_spotting_service/dataset_speech_recognition/
+keyword_spotting_service/data.json
+keyword_spotting_service/get_data_splits.py
+keyword_spotting_service/prepare_dataset.py
+keyword_spotting_service/train_model.py
+keyword_spotting_service/CNN_model.py
