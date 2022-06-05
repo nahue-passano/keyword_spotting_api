@@ -1,7 +1,7 @@
 import requests
 
 URL = 'http://127.0.0.1:5000/predict'
-TEST_AUDIO_FILE_PATH = 'test_prediction/down.wav'
+TEST_AUDIO_FILE_PATH = 'flask_api/keyword_spotting_service/test_prediction/down.wav'
 
 if __name__ == '__main__':
 
